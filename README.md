@@ -1,3 +1,10 @@
 # Student Analysis
 
-This is an analysis of how factors such as parents' education, parents' marital status, and ethnic background affect children's academic performance. Data analysis techniques were utilized to interpret and visualize the relationship between these variables and students' scores, providing insights for educational improvement.
+Data analysis techniques were utilized to interpret and visualize the relationship between certain variables and students' scores, providing insights for educational improvement.
+
+This analysis checks relationships between:
+- Parents' Education and children's academic performance.
+- Parents' Marital Status and children's academic performance.
+- Number of siblings of a child and his/her academic performance.
+- Ethnic Background and children's academic performance.
+
